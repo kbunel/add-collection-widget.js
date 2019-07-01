@@ -1,0 +1,1 @@
+# collectionForm.js
