@@ -1,7 +1,7 @@
 ### Symfony 4
 # add-collection-widget.js
 
-Simply add this script and automaticaly handle CollectionFormType in your DOM.
+Simply add this script and automaticaly handle CollectionType with entities in your DOM.
 [Doc Symfony](https://symfony.com/doc/current/form/form_collections.html).
 
 ```
