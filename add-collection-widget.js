@@ -1,10 +1,3 @@
-### Symfony 4
-# add-collection-widget.js
-
-Simply add this script and automaticaly handle CollectionFormType in your DOM.
-[Doc Symfony](https://symfony.com/doc/current/form/form_collections.html).
-
-```
 // setup an "add a tag" link
 jQuery(document).ready(function() {
     $('div.collections').each(function(index) {
@@ -71,5 +64,3 @@ function addTagForm(collectionHolder) {
 $('body').on('click', '.remove-line', function() {
     $(this).parents('.form-group').first().remove();
 });
-
-```
